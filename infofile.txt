@@ -1,0 +1,10 @@
+basics.c -- a basic OpenGL program
+Created windows
+init: Entered 
+init: Exit 
+display: Entered 
+display: Exit 
+display: Entered 
+display: Exit 
+display: Entered 
+display: Exit 
